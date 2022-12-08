@@ -13,4 +13,4 @@ I am not entirely sure how many blogging platforms I have used so far. I was ver
 
 I feel my interest in blogging is to understand the platform rather than to write and since I haven't done much on wordpress in the last few years, I feel it is time for me to move again, and this could a nice challenge. 
 
-I will start moving my old posts here over time and maybe I will write more now.
+I will start moving my old posts over time and maybe I will write more now.
