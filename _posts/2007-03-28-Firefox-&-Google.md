@@ -1,5 +1,5 @@
 ---
-layouot: post
+layout: post
 title: Firefox & Google
 date: 2007-03-28 16:15
 categories: [Technology]

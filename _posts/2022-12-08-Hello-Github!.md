@@ -1,5 +1,5 @@
 ---
-layouot: post
+layout: post
 title: Hello Github!
 date: 2022-12-08 05:00
 categories: [Random]

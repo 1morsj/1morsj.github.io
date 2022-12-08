@@ -1,5 +1,5 @@
 ---
-layouot: post
+layout: post
 title: Starting a blog
 date: 2004-05-23 20:48
 categories: [Random]

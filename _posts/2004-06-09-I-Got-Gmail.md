@@ -1,5 +1,5 @@
 ---
-layouot: post
+layout: post
 title: I got Gmail
 date: 2004-06-09 21:31
 categories: [Random]
