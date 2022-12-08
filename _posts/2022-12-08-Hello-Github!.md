@@ -6,10 +6,6 @@ categories: [Random]
 tags: [just saying]
 ---
 
-I have finally moved to github after few years of trying to move to static websties. I have been trying to move to netlify, but then decided to go with github pages instead.
+I have been trying to move to static websties for a few years now. I made several attempts on Netlify, but was never really happy with the theme or the result. I came across this Jekyll theme today liked the simple clean look and decided to go with it.
 
-I am not entirely sure how many blogging platforms I have used so far. I was very briefly on LiveJournal before committing myself to Blogger and then I changed to wordpress.org and then to a selfhosted wordpress instance on shared hosting before finally moving to a VPS server.
-
-I feel my interest in blogging is to understand the platform rather than to write and since I haven't done much on wordpress in the last few years, I feel it is time for me to move again, and this could a nice challenge. 
-
-I will start moving my old posts over time and maybe I will write more now.
+With this change, I will be discarding many of my old posts.
