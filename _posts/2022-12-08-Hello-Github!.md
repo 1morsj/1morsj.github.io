@@ -2,11 +2,9 @@
 layouot: post
 title: Hello Github!
 date: 2022-12-08 05:00
-categories: [None]
+categories: [Random]
 tags: [just saying]
 ---
-
-## On Github
 
 I have finally moved to github after few years of trying to move to static websties. I have been trying to move to netlify, but then decided to go with github pages instead.
 
